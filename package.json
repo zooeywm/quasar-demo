@@ -1,9 +1,9 @@
 {
-  "name": "quasarapp",
-  "version": "0.0.1",
-  "description": "A Quasar Project",
-  "productName": "Quasar App",
-  "author": "zooeywm",
+  "name": "yaoyao_pocket_book",
+  "version": "1.0.0",
+  "description": "遥遥的记账本",
+  "productName": "遥遥的记账本",
+  "author": "安安",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.ts,.vue ./",
